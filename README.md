@@ -18,8 +18,8 @@ Clone the project, go to the directory, Install the dependencies & run the main.
 ```
 git clone https://github.com/CyberTitus/Wifiola.git
 cd Wifiola
-pip install -r requirements
-python3 main.py
+pip install -r requirements.txt
+python main.py
 ```
 
 ### Find Me on :
