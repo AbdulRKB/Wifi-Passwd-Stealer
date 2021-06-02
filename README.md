@@ -12,7 +12,7 @@ This tool lets you see all saved wifi passwords in your windows device.
 - Grab all saved passwords
 
 ## Installation
-Install the dependencies
+Clone the project, go to the directory, Install the dependencies & run the tool
 
 ```
 git clone https://github.com/CyberTitus/Wifiola.git
