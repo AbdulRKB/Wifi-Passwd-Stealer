@@ -1,7 +1,7 @@
 # Wifiola
 
 <h3>NOTE: This tool is made for educational purposes only!</h3>
-<span style="background-color:green">Mrs. Robinson</span>, Jesus loves you more than you will know
+
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -32,4 +32,4 @@ python3 tool.py
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/CyberTitus" target="_blank"><img src="https://img.shields.io/badge/Github-CyberTitus-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40CyberTitus-red?style=for-the-badge&logo=instagram"></a></p> 
+  <a href="https://www.instagram.com/CyberTitus" target="_blank"><img src="https://img.shields.io/badge/IG-%40CyberTitus-red?style=for-the-badge&logo=instagram"></a></p> 
