@@ -5,7 +5,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This tool lets you see all saved wifi passwords in your windows device.  
+Wifiola is an open source tool which lets you view all saved wifi passwords on your windows machine.
+
 ## Features
 - Colorfull output
 - Easy to use
