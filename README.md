@@ -12,10 +12,7 @@ This tool lets you see all saved wifi passwords in your windows device.
 - Grab all saved passwords
 
 ## Installation
-
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
-
-Install the dependencies and devDependencies and start the server.
+Install the dependencies
 
 ```
 git clone https://github.com/CyberTitus/Wifiola.git
@@ -23,11 +20,6 @@ cd Wifiola
 pip install -r requirements
 python3 tool.py
 ```
-
-
-
-
-
 
 ### Find Me on :
 <p align="left">
