@@ -1,8 +1,6 @@
 # Wifiola
 
-<div style="background-color:red; text-align:center; vertical-align: middle; padding:40px 0;">
-<a href="/donate">Note: This Tool is made for educational purposes only!</a>
-</div
+<h3 style="background-color: red;">NOTE: This tool is made for educational purposes only!</h3>
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
