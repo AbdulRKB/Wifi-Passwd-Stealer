@@ -4,9 +4,9 @@
 Wifiola is an open source tool which lets you view all saved wifi passwords on your windows machine.
 
 ## Features
-- Colorfull output
+- Colorful output
 - Easy to use
-- Grab all saved passwords
+- Grabs all saved passwords
 
 ## Installation
 Clone the project, go to the directory, Install the dependencies & run the main.py file.
