@@ -18,7 +18,5 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### Find Me on :
 <p align="left">
   <a href="https://github.com/CyberTitus" target="_blank"><img src="https://img.shields.io/badge/Github-CyberTitus-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/CyberTitus" target="_blank"><img src="https://img.shields.io/badge/IG-%40CyberTitus-red?style=for-the-badge&logo=instagram"></a></p> 
