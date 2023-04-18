@@ -7,7 +7,7 @@ profiles = []
 passwords = []
 for data in datas:
 	if 'All User Profile' in data:
-		profiles.append(data.split(':')[1][1:-1])
+		profiles.append(data.split(":", 1)[1].strip())
 for profile in profiles:
 	try:
 		data = check_output(['netsh', 'wlan', 'show', 'profile', profile, 'key=clear']).decode('utf-8').split('\n')
