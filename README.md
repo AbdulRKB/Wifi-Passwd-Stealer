@@ -13,7 +13,7 @@ Clone the project, go to the directory, Install the dependencies & run the main.
 
 ```
 git clone https://github.com/AbdulRKB/Wifi-Passwd-Stealer.git
-cd Wifiola
+cd Wifi-Passwd-Stealer
 pip install -r requirements.txt
 python main.py
 ```
