@@ -12,11 +12,8 @@ Wifiola is an open source tool which lets you view all saved wifi passwords on y
 Clone the project, go to the directory, Install the dependencies & run the main.py file.
 
 ```
-git clone https://github.com/CyberTitus/Wifi-Passwd-Stealer.git
+git clone https://github.com/AbdulRKB/Wifi-Passwd-Stealer.git
 cd Wifiola
 pip install -r requirements.txt
 python main.py
 ```
-
-<p align="left">
-  <a href="https://github.com/CyberTitus" target="_blank"><img src="https://img.shields.io/badge/Github-CyberTitus-green?style=for-the-badge&logo=github"></a>
