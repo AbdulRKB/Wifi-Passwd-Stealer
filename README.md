@@ -1,19 +1,11 @@
-# Wifi Password Stealer
+**This Python script extracts saved Wi-Fi passwords on Windows and Linux systems.**
 
-<h3>NOTE: This tool is made for educational purposes only!</h3>
-Wifiola is an open source tool which lets you view all saved wifi passwords on your windows machine.
+## ⚙️ Requirements
 
-## Features
-- Colorful output
-- Easy to use
-- Grabs all saved passwords
+- Python 3: Make sure Python 3 is installed.
+- Administrator/root privileges: The script needs elevated permissions to access Wi-Fi credentials.
 
-## Installation
-Clone the project, go to the directory, Install the dependencies & run the main.py file.
 
-```
-git clone https://github.com/AbdulRKB/Wifi-Passwd-Stealer.git
-cd Wifi-Passwd-Stealer
-pip install -r requirements.txt
-python main.py
-```
+## 💻 Supported Platforms
+- Windows: Uses the netsh command to access saved Wi-Fi profiles.
+- Linux: Looks for saved Wi-Fi credentials in NetworkManager configurations.
